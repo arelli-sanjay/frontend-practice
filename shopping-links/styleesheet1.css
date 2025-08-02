@@ -1,0 +1,59 @@
+.image{
+    float: right;
+    height: 200px;;
+    width:50%;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+.mainclass{
+    background-color:#894bca ;
+    color: white;
+    height: 250px;
+   
+}
+h1{
+    padding-left: 30px;
+    padding-top: 50px;
+}
+.head{
+    background-color: white;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    margin-top: -40px;
+}
+.store{
+    height: 1500px;
+    width: 400px;
+    margin-left: 20px;
+}
+h2{
+    padding-top: 30px;
+    padding-left: 20px;
+    color: #f780c3;
+}
+.img{
+    height: 80px;
+    width: 80px;
+    padding-left: 20px;
+
+}
+#matter{
+    position: relative;
+    bottom:100px;
+    left: 110px;
+}
+.IKEA{
+    position: relative;
+    bottom:100px;
+}
+*{
+    font-family:Bree Serif;
+}
+.bewakoof{
+    position: relative;
+    bottom:200px;
+}
+.Flipkart{
+        position: relative;
+        bottom:300px;
+    }
